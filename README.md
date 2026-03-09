@@ -17,7 +17,7 @@ I am a data-driven professional transitioning from a background in Mechanical En
 * **Tech:** Tableau, Excel, Data Storytelling.
 * **Outcome:** Created an interactive dashboard that identifies high-loss geographic "hotspots" to guide stakeholder decision-making.
 
-#### [Predictive Aerodynamic Modeling](https://github.com/JayParekh-MechAI/Using-DNNs-to-predict-pressure-coefficients-of-airfoils)
+#### [Predictive Aerodynamic Modeling (BEng (Hons) Dissertation)](https://github.com/JayParekh-MechAI/Using-DNNs-to-predict-pressure-coefficients-of-airfoils)
 * **Goal:** Replace slow CFD simulations with high-speed Neural Networks.
 * **Tech:** Python, Keras, Matplotlib, XFoil.
 * **Outcome:** Achieved **97.58% prediction accuracy**, reducing computational time significantly while maintaining precision.
