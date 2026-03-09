@@ -1,7 +1,7 @@
 # Hi, I'm Jay Parekh 👋
 ### Data Analyst | MSc Artificial Intelligence | BEng Mechanical Engineering
 
-I am a data-driven professional transitioning from a background in Mechanical Engineering to Data Analytics. I specialize in transforming complex datasets into actionable business insights using **Python, SQL, and Tableau**. My experience ranges from engineering predictive models with **97% accuracy** to building interactive business intelligence dashboards.
+I am a data-driven professional transitioning from a background in Mechanical Engineering to Data Analytics. I specialize in transforming complex datasets into actionable business insights using **Python, SQL, and Tableau/PowerBI**. My experience ranges from engineering predictive models with **97% accuracy** to building interactive business intelligence dashboards.
 
 ---
 
